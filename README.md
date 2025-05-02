@@ -1,9 +1,18 @@
 ### Hello there 👋
 
-- 🔭 I’m working on building more on the blockchain and documenting about it
-- 🌱 I’m learning solidity & Rust, also checking into securities of smart contracts.
-- 👯 I’m looking to collaborate on Javascript or any blockchain project which are EVM compatible.
-- 👯 I’m looking to collaborate on writing documentations and Help projects with their technical concepts.
+🔍 I’m focused on security research — exploring vulnerabilities, analyzing exploits, and helping protocols stay secure and safe.
+
+📝 I specialize in technical writing, translating complex smart contract systems into clear, developer-friendly documentation.
+
+🛠️ I work with Solidity and Rust, diving deep into EVM and Solana-based protocols from both a development and security perspective.
+
+🤝 I’m open to collaborations on:
+
+Smart contract reviews and vulnerability research
+
+Writing technical documentation for projects
+
+Educational content that bridges devs and security concept.
 
 - Read my blog posts via [Hashnode](https://izzycious.hashnode.dev/)
 
